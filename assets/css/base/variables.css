@@ -1,7 +1,4 @@
-:root{
-    /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
-    /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
-   
+:root{   
     --cor-de-fondo1:#FFFFFF;
     --cor-de-fondo2: #353944;
     --cor-de-link: #000;
