@@ -1,0 +1,25 @@
+section.footer{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    height: 102px;
+    backdrop-filter: blur(4px);
+}
+
+.footer__rodape{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.footer__text{
+    padding: 2rem 0;
+}
+
+.retribute{
+    display: flex;
+    position: fixed;
+    top: 85px;
+    font-size: 0.5rem;
+
+}

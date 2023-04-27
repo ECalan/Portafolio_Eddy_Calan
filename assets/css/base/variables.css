@@ -1,0 +1,25 @@
+:root{
+    /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
+    /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
+   
+    --cor-de-fondo1:#FFFFFF;
+    --cor-de-fondo2: #353944;
+    --cor-de-link: #000;
+    --cor-azul-negro:#060e29;
+    --cor-azul-oscuro: #102a69;
+    --cor-turquesa-claro: #37c9db;
+    --cor-de-advertencia: #FF0000;
+
+    --clyppy: polygon(0 0, 0 0, 0 100%, 0% 100%);
+}
+
+
+ol,ul,li {
+    display: flex;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: var(--cor-de-link);
+}

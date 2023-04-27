@@ -1,0 +1,50 @@
+@import url(./variables.css);
+
+body{
+    background-color: var(--cor-de-fondo2);
+    background-image: url("/assets/img/Background_programador.png"),url("/assets/img/Hexagonal-1.png");
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.todo{
+    display: block;
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    margin: 0 10rem;
+    line-height: 1;
+}
+
+a:hover{
+    color: var(--cor-turquesa-claro);
+}
+
+/*Tablet*/
+@media screen and (max-width: 768px){
+
+    body{
+        background-position: 85% 70%;
+    }
+
+    .todo{
+        margin: 0 2rem;
+    }
+    
+    
+}
+
+/*Mobile*/
+@media screen and (max-width: 360px){
+
+    body{
+        background-position: 84.5% 120%;
+    }
+    
+   .todo{
+     margin: 0 1rem;
+   } 
+
+}
+    
+    
