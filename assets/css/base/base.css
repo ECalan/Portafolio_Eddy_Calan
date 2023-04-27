@@ -35,7 +35,7 @@ a:hover{
 }
 
 /*Mobile*/
-@media screen and (max-width: 360px){
+@media screen and (max-width: 412px){
 
     body{
         background-position: 84.5% 120%;
