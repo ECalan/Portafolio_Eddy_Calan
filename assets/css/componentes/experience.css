@@ -129,7 +129,7 @@ div.visible{
 }
 
 /*Mobile*/
-@media screen and (max-width: 360px){
+@media screen and (max-width: 412px){
     
     .experience__info{
         width: 66%;

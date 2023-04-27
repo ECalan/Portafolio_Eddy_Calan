@@ -71,7 +71,7 @@ section.hobbies{
 }
 
 /*Mobile*/
-@media screen and (max-width: 360px){
+@media screen and (max-width: 412px){
     
     .hobbies__line{
         width: 100%;        
