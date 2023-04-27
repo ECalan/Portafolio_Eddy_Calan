@@ -2,7 +2,7 @@
 
 body{
     background-color: var(--cor-de-fondo2);
-    background-image: url("assets/img/Background_programador.png"),url("assets/img/Hexagonal-1.png");
+    background-image: url("https://raw.githubusercontent.com/ECalan/Portafolio_Eddy_Calan/master/assets/img/Background_programador.png"),url("https://raw.githubusercontent.com/ECalan/Portafolio_Eddy_Calan/master/assets/img/Hexagonal-1.png");
     background-position: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
