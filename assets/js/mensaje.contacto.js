@@ -15,7 +15,7 @@ formulario.addEventListener("submit", (evento) => {
     const target4 = mensaje.length;
     
     if(target1 >= 1 && target2 >= 1 && target3 >= 1 && target4 >= 1){
-        window.location.href ="/screens/form.success.html"
+        window.location.href ="https://ecalan.github.io/Screen_para_portafolio/"
     }
 });
 
