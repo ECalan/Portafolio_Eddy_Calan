@@ -20,7 +20,7 @@
 * Experiencia Profesional
 * Contacto
 
-- Grupo 4: **challengeoneportafolio4**
+Grupo 4: **challengeoneportafolio4**
 
 #oraclenexteducation
 #aluralatam
