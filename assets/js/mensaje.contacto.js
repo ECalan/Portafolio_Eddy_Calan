@@ -1,14 +1,13 @@
 
 const formulario = document.querySelector("[data-form]");
+    
+formulario.addEventListener("submit", (evento) => {
+    evento.preventDefault();
 
     const nombre = document.querySelector("[data-nombre]").value;
     const email = document.querySelector("[data-email]").value;
     const asunto = document.querySelector("[data-asunto]").value;
     const mensaje = document.querySelector("[data-mensaje]").value;
-
-    
-formulario.addEventListener("submit", (evento) => {
-    evento.preventDefault();    
 
     const target1 = nombre.length;
     const target2 = email.length;
