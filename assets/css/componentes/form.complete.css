@@ -40,7 +40,7 @@ section.main{
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
 
     .main__form__success{
         margin-top: 1.5rem;

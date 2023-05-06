@@ -49,7 +49,7 @@
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
     
         section.about{
             flex-direction: column;

@@ -89,7 +89,7 @@ section.menu{
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
     section.menu{
         margin-top: 1rem;
     }

@@ -92,7 +92,7 @@ section.skills{
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
     
     .skills__line{
         width: 100%;        

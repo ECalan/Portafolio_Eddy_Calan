@@ -67,7 +67,7 @@ section.academic{
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
     
     .academic__title{
         margin-bottom: 1rem;
