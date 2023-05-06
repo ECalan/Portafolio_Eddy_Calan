@@ -22,7 +22,7 @@ const tipoDeErrores = [
 
 const mensajesDeError = {
     mensaje:{
-        valueMissing: "El campo Mensaje no puede estar vacío",
+        valueMissing: "El campo Mensaje no puede estar vacío!",
     },
 }
 
