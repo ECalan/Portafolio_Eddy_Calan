@@ -60,12 +60,11 @@ div.visible{
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
-/*sección en formación - cursos para estudiar
 .info__izquierda{
     order:-1;
     align-self: center;
     margin: 1rem;
-}*/
+}
 
 .experience__title{
     font-weight:700;
