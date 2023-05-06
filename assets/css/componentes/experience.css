@@ -19,11 +19,6 @@ section.experience{
     backdrop-filter: blur(4px);
 }
 
-.reverse__box{
-    display: flex;
-    justify-content: space-between;
-}
-
 .experience__img{
     width: 80%;
     border: 2px solid var(--cor-turquesa-claro);
@@ -46,6 +41,7 @@ img.visible{
     flex-direction: column;
     align-self: center;
     margin: 1rem;
+    width: 25%;
     /*prodiedad para animacion*/
     opacity: 0;
     transition: 0.7s ease-in-out all;
@@ -115,6 +111,14 @@ div.visible{
     .experience__description{
         display: flex;
         justify-content: space-between;
+    }
+
+    .experience__info{
+        width: 40%;
+    }
+
+    .info__izquierda{
+        order: 1;
     }
 
     .experience__boton--repo{
