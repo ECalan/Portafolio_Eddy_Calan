@@ -1,7 +1,7 @@
 
 const formulario = document.querySelector("[data-form]");
     
-formulario.addEventListener("submit", (evento) => {
+/*formulario.addEventListener("submit", (evento) => {
     evento.preventDefault();
 
     const nombre = document.querySelector("[data-nombre]").value;
@@ -17,6 +17,6 @@ formulario.addEventListener("submit", (evento) => {
     if(target1 >= 1 && target2 >= 1 && target3 >= 1 && target4 >= 1){
         window.location.href ="https://ecalan.github.io/Screen_para_portafolio/"
     }
-});
+});*/
 
 
