@@ -25,7 +25,7 @@ const tipoDeErrores = [
 const mensajesDeError = {
     nombre:{
         valueMissing: "El campo Nombre no puede estar vacío.",
-        patternMismatch: "El Nombre debe contener 4 caracteres minimo y hasta 50 caracteres maximo!",
+        patternMismatch: "El Nombre debe contener 4 caracteres alfabéticos minimo y hasta 50 caracteres maximo!",
     },
     email:{
         valueMissing: "El campo Email no puede estar vacío.",
@@ -33,7 +33,7 @@ const mensajesDeError = {
     },
     asunto:{
         valueMissing: "El campo Asunto no puede estar vacío.",
-        patternMismatch: "El Asunto debe contener 4 caracteres minimo y hasta 50 caracteres maximo!",
+        patternMismatch: "El Asunto debe contener 4 caracteres alfabéticos minimo y hasta 50 caracteres maximo!",
     },
 }
 
