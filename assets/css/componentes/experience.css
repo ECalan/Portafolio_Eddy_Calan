@@ -20,7 +20,7 @@ section.experience {
 }
 
 .experience__img {
-  width: 80%;
+  width: 755px;
   border: 2px solid var(--cor-turquesa-claro);
   /*prodiedad para animacion*/
   opacity: 0;
@@ -44,16 +44,16 @@ img.visible {
   width: 25%;
   /*prodiedad para animacion*/
   opacity: 0;
-  transition: 0.7s ease-in-out all;
+  transition: 1s ease-in-out all;
 }
 
 div.experience__info {
-  transform: matrix(1, 1, 1, -1, 1, 1);
+  transform: rotate(0turn);
 }
 
 div.visible {
   opacity: 1;
-  transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: rotate(2turn);
 }
 
 .info__izquierda {
@@ -132,7 +132,7 @@ div.visible {
 /*Mobile*/
 @media screen and (max-width: 414px) {
   .experience__info {
-    width: 50%;
+    width: 65%;
   }
 
   .experience__boton--repo {
