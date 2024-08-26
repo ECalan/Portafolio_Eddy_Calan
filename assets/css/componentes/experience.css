@@ -23,7 +23,7 @@ section.experience {
   width: 755px;
   border: 2px solid var(--cor-turquesa-claro);
   /*prodiedad para animacion*/
-  /*opacity: 0;*/
+  opacity: 0;
   transition: 0.7s ease-in-out all;
 }
 
